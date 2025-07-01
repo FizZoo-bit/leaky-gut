@@ -1,2 +1,19 @@
-<?xml version='1.0' encoding='utf-8'?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url><loc>https://fizzoo-bit.github.io/gutv2/about.html</loc><lastmod>2025-07-01</lastmod></url><url><loc>https://fizzoo-bit.github.io/gutv2/collagen.html</loc><lastmod>2025-07-01</lastmod></url><url><loc>https://fizzoo-bit.github.io/gutv2/contact.html</loc><lastmod>2025-07-01</lastmod></url><url><loc>https://fizzoo-bit.github.io/gutv2/diet.html</loc><lastmod>2025-07-01</lastmod></url><url><loc>https://fizzoo-bit.github.io/gutv2/index.html</loc><lastmod>2025-07-01</lastmod></url><url><loc>https://fizzoo-bit.github.io/gutv2/l-glutamine.html</loc><lastmod>2025-07-01</lastmod></url><url><loc>https://fizzoo-bit.github.io/gutv2/probiotics.html</loc><lastmod>2025-07-01</lastmod></url><url><loc>https://fizzoo-bit.github.io/gutv2/supplements.html</loc><lastmod>2025-07-01</lastmod></url><url><loc>https://fizzoo-bit.github.io/gutv2/zinc-carnosine.html</loc><lastmod>2025-07-01</lastmod></url></urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://fizzoo-bit.github.io/gutv2/</loc>
+  </url>
+  <url>
+    <loc>https://fizzoo-bit.github.io/gutv2/about.html</loc>
+  </url>
+  <url>
+    <loc>https://fizzoo-bit.github.io/gutv2/contact.html</loc>
+  </url>
+  <url>
+    <loc>https://fizzoo-bit.github.io/gutv2/supplements.html</loc>
+  </url>
+  <url>
+    <loc>https://fizzoo-bit.github.io/gutv2/articles/leaky-gut-causes.html</loc>
+  </url>
+  <!-- adaugă toate articolele tale aici -->
+</urlset>
